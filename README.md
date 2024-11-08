@@ -15,6 +15,7 @@ conda install -c pytorch cudatoolkit=11.3 -y
 conda install -c conda-forge transformers -y
 
 
+
  Afterwards, open the notebook using:
 > jupyter notebook
 
