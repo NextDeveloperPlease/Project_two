@@ -8,7 +8,7 @@ Verify the integrity of the bert_install.bat file (open using notepad - don't do
 
 bert_install
 
-conda install pandas numpy jupyter -y
+conda install pandas numpy jupyter matplotlib -y
 
 conda install -c pytorch cudatoolkit=11.3 -y
 
